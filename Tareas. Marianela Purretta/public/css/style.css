@@ -1,0 +1,12 @@
+/*SINTAXIS
+
+selector{
+propiedad valor;
+}
+
+*/
+/*slector universal*/
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
